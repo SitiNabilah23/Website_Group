@@ -500,3 +500,13 @@ div.transbox h4
   font-weight: bold;
   color: #000000;
 }
+
+body
+{
+	background-image: url(c1.jpg);
+}
+
+p        
+{
+  text-align: middle;
+}
